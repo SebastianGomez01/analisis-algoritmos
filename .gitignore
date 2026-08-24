@@ -3,3 +3,4 @@ __pycache__/
 .vscode/
 resultados_temporales/
 *.log
+venv/
